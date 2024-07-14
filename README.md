@@ -1,13 +1,13 @@
 # Camera capture (RPI)
 Captures images from RPI camera
 
-Installation Instructions:
+**Installation Instructions:**
 
-git clone https://github.com/dsc333/cam-capture
-cd cam-capture
-python3 -m venv --system-site-packages env
-source env/bin/activate
-pip3 install opencv-contrib-python
-python3 snap-photo.py 
-Press 'q' to quit the program, 'p' to take a photo
-Type deactivate when done
+1. git clone https://github.com/dsc333/cam-capture
+2. cd cam-capture
+3. python3 -m venv --system-site-packages env
+4. source env/bin/activate
+5. pip3 install opencv-contrib-python
+6. python3 snap-photo.py 
+7. Press 'q' to quit the program, 'p' to take a photo
+8. Type deactivate when done

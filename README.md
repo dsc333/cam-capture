@@ -1,5 +1,5 @@
 # Camera capture (RPI)
-Captures images from RPI camera
+Captures images from an RPI camera when the user presses 'p'. 
 
 **Installation Instructions:**
 
